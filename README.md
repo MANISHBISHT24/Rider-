@@ -13,7 +13,7 @@ The website is designed with a cinematic Himalayan aesthetic, premium dark UI, a
 ### 🚀 Explore the Website
 
 **Live Demo:**
-🔗 `https://your-username.github.io/kailash-ride/`
+🔗 `https://MANISHBISHT24.github.io/kailash-ride/`
 
 > Replace the URL above with your actual GitHub Pages URL after deployment.
 
